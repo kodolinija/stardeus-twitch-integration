@@ -1,0 +1,7 @@
+{
+    "Name" : "Twitch Integration",
+    "Description" : "Stardeus Twitch integration",
+    "ModVersion" : "1.0.0",
+    "GameVersion" : "0.5.81",
+    "Dependencies" : [ "core" ]
+}

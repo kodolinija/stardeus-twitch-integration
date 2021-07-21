@@ -1,0 +1,8 @@
+{
+    "Role" : "destroy",
+    "AddAtReputation" : 1000,
+    "RemoveAtReputation" : 500,
+    "AddToBroadcaster" : true,
+    "AddToMods" : true,
+    "AddToVIP" : true
+}

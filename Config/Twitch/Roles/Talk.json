@@ -1,0 +1,8 @@
+{
+    "Role" : "talk",
+    "AddAtReputation" : 100,
+    "RemoveAtReputation" : 50,
+    "AddToBroadcaster" : true,
+    "AddToMods" : true,
+    "AddToVIP" : true
+}
